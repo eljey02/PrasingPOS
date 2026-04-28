@@ -73,6 +73,46 @@ namespace PrasingsPOS.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap admin_alt {
+            get {
+                object obj = ResourceManager.GetObject("admin-alt", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap admin_alt__1_ {
+            get {
+                object obj = ResourceManager.GetObject("admin-alt (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap admin_alt__2_ {
+            get {
+                object obj = ResourceManager.GetObject("admin-alt (2)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap admin_alt__3_ {
+            get {
+                object obj = ResourceManager.GetObject("admin-alt (3)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap bashda {
             get {
                 object obj = ResourceManager.GetObject("bashda", resourceCulture);
@@ -133,6 +173,16 @@ namespace PrasingsPOS.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap circle_user1 {
+            get {
+                object obj = ResourceManager.GetObject("circle-user1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap dashboard_panel {
             get {
                 object obj = ResourceManager.GetObject("dashboard-panel", resourceCulture);
@@ -183,6 +233,16 @@ namespace PrasingsPOS.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap image {
+            get {
+                object obj = ResourceManager.GetObject("image", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap inventory_alt {
             get {
                 object obj = ResourceManager.GetObject("inventory-alt", resourceCulture);
@@ -226,6 +286,26 @@ namespace PrasingsPOS.Properties {
         internal static System.Drawing.Bitmap Screenshot_2026_04_28_165954 {
             get {
                 object obj = ResourceManager.GetObject("Screenshot 2026-04-28 165954", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap sign_out_alt {
+            get {
+                object obj = ResourceManager.GetObject("sign-out-alt", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap sign_out_alt__1_ {
+            get {
+                object obj = ResourceManager.GetObject("sign-out-alt (1)", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

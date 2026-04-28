@@ -39,5 +39,14 @@ namespace PrasingsPOS
                 e.Graphics.FillRectangle(brush, rect);
             }
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            user user2 = new user();
+
+            user2.Show();
+        }
+
+    
     }
 }

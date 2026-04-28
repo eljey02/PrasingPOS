@@ -149,5 +149,29 @@
   <ItemGroup>
     <None Include="Resources\circle-user.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sign-out-alt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sign-out-alt %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin-alt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin-alt %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin-alt %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin-alt %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\circle-user1.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
