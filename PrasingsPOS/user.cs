@@ -49,12 +49,70 @@ namespace PrasingsPOS
 
         private void button6_Click(object sender, EventArgs e)
         {
+            button6.FlatStyle = FlatStyle.Flat;
+            button6.FlatAppearance.BorderSize = 0; // removes border
+
+            button6.FlatStyle = FlatStyle.Flat;
+            button6.FlatAppearance.BorderSize = 0;
+            button6.FlatAppearance.MouseOverBackColor = Color.FromArgb(45, 45, 48); // highlight color
+            button6.FlatAppearance.MouseDownBackColor = Color.FromArgb(28, 28, 28); // pressed color
+
 
         }
 
         private void button5_Click(object sender, EventArgs e)
         {
+            button5.FlatStyle = FlatStyle.Flat;
+            button5.FlatAppearance.BorderSize = 0; // removes border
 
+            button5.FlatStyle = FlatStyle.Flat;
+            button5.FlatAppearance.BorderSize = 0;
+            button5.FlatAppearance.MouseOverBackColor = Color.FromArgb(45, 45, 48); // highlight color
+            button5.FlatAppearance.MouseDownBackColor = Color.FromArgb(28, 28, 28); // pressed color
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            button1.FlatStyle = FlatStyle.Flat;
+            button1.FlatAppearance.BorderSize = 0; // removes border
+
+            button1.FlatStyle = FlatStyle.Flat;
+            button1.FlatAppearance.BorderSize = 0;
+            button1.FlatAppearance.MouseOverBackColor = Color.FromArgb(45, 45, 48); // highlight color
+            button1.FlatAppearance.MouseDownBackColor = Color.FromArgb(28, 28, 28); // pressed color
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            button2.FlatStyle = FlatStyle.Flat;
+            button2.FlatAppearance.BorderSize = 0; // removes border
+
+            button2.FlatStyle = FlatStyle.Flat;
+            button2.FlatAppearance.BorderSize = 0;
+            button2.FlatAppearance.MouseOverBackColor = Color.FromArgb(45, 45, 48); // highlight color
+            button2.FlatAppearance.MouseDownBackColor = Color.FromArgb(28, 28, 28); // pressed color
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            button4.FlatStyle = FlatStyle.Flat;
+            button4.FlatAppearance.BorderSize = 0; // removes border
+
+            button4.FlatStyle = FlatStyle.Flat;
+            button4.FlatAppearance.BorderSize = 0;
+            button4.FlatAppearance.MouseOverBackColor = Color.FromArgb(45, 45, 48); // highlight color
+            button4.FlatAppearance.MouseDownBackColor = Color.FromArgb(28, 28, 28); // pressed color
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            button3.FlatStyle = FlatStyle.Flat;
+            button3.FlatAppearance.BorderSize = 0; // removes border
+
+            button3.FlatStyle = FlatStyle.Flat;
+            button3.FlatAppearance.BorderSize = 0;
+            button3.FlatAppearance.MouseOverBackColor = Color.FromArgb(45, 45, 48); // highlight color
+            button3.FlatAppearance.MouseDownBackColor = Color.FromArgb(28, 28, 28); // pressed color
         }
     }
 }
