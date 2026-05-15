@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace PrasingsPOS
 {
-    public partial class UserControl1 : UserControl
+    public partial class InventoryControl : UserControl
     {
-        public UserControl1()
+        public InventoryControl()
         {
             InitializeComponent();
         }

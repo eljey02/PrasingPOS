@@ -1,6 +1,6 @@
 ﻿namespace PrasingsPOS
 {
-    partial class UserControl1
+    partial class DashboardControl
     {
         /// <summary> 
         /// Required designer variable.
@@ -30,12 +30,15 @@
         {
             this.SuspendLayout();
             // 
-            // UserControl1
+            // DashboardControl
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Name = "UserControl1";
-            this.Size = new System.Drawing.Size(214, 122);
+            this.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.Margin = new System.Windows.Forms.Padding(4);
+            this.Name = "DashboardControl";
+            this.Size = new System.Drawing.Size(1134, 641);
+            this.Load += new System.EventHandler(this.DashboardControl_Load);
             this.ResumeLayout(false);
 
         }
